@@ -4,8 +4,6 @@
 - My job is helping others understand when using a computer is a good idea :bulb:, and when there are better solutions :eyes:
 
 <!---
-DavidTheHere/DavidTheHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 https://github.com/ikatyang/emoji-cheat-sheet
 
